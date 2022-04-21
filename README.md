@@ -42,5 +42,5 @@ pages={1-1},
 doi={10.1109/JSTSP.2022.3167891}}
 ```
 
-Erqi Huang, Nanjing Uviersity, Email: erqihuang@smail.nju.edu.cn \
+Erqi Huang, Nanjing Uviersity, Email: erqihuang@smail.nju.edu.cn
 
