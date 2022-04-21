@@ -1,5 +1,5 @@
 # Spectral-Propagation-Net
-This repository contains the codes for paper ***"High-fidelity Hyperspectral Snapshot of PhysicalWorld: System Architecture, Dataset and Model"***
+This repository contains the codes for paper ***"High-fidelity Hyperspectral Snapshot of Physical World: System Architecture, Dataset and Model"***
 (IEEE J-STSP, VOL. X, 2022) by [Erqi Huang](https://erqihuang.github.io/), Maoqi Zhang, [Zhan Ma](https://vision.nju.edu.cn/fc/d3/c29470a457939/page.htm), Linsen Chen, Yiyu Zhuang, [Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html).    **[[pdf](https://ieeexplore.ieee.org/document/9760181)]** 
 
 ## Contents
