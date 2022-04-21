@@ -28,8 +28,7 @@ Spectral Propagation Network (SPN)
 ### Testing
 
 ## Citation
-If you find our work useful for your research, please consider citing the following papers
-
+If you find our work useful for your research, please consider citing the following paper
 ```
 @ARTICLE{9760181,  
 author={Huang, Erqi and Zhang, Maoqi and Ma, Zhan and Chen, Linsen and Zhuang, Yiyu and Cao, Xun},  
