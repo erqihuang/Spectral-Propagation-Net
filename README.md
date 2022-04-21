@@ -41,9 +41,6 @@ number={},
 pages={1-1},  
 doi={10.1109/JSTSP.2022.3167891}}
 ```
+
 Erqi Huang, Nanjing Uviersity, Email: erqihuang@smail.nju.edu.cn \
-Maoqi Zhang, Nanjing Uviersity, Email: zhangmaoqi@nju.edu.cn \
-Zhan Ma, Nanjing Uviersity, Email: mazhan@nju.edu.cn \
-Linsen Chen, Nanjing Uviersity, Email: linsen_chen@smail.nju.edu.cn \
-Yiyu Zhuang, Nanjing Uviersity, Email: yiyu.zhuang@smail.nju.edu.cn \
-Xun Cao, Nanjing Uviersity, Email: caoxun@nju.edu.cn
+
