@@ -16,11 +16,12 @@ It is extremely challenging to acquire high-fidelity video of physical world at 
 
 ## System Architecture
 Joint Snapshot-Scanning Spectral System (JS<sup>4</sup>)
+
 ## Dataset
 Computational Hyperspectral Image Light Datase (CHILD)
 
 ## Model
-spectral propagation network (SPN)
+Spectral Propagation Network (SPN)
 
 ## Usage
 ### Download the SPN repository
