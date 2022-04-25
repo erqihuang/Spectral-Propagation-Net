@@ -17,7 +17,8 @@ It is extremely challenging to acquire high-fidelity video of physical world at 
 Joint Snapshot-Scanning Spectral System (JS<sup>4</sup>)
 
 ## Dataset
-Computational Hyperspectral Image Light Datase (CHILD)
+You can download dataset by the following links. \
+[Computational Hyperspectral Image Light Datase (CHILD)](https://box.nju.edu.cn/d/fb6098c7eebb4a448c97/)
 
 ## Model
 Spectral Propagation Network (SPN)
