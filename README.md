@@ -34,13 +34,12 @@ If you find our work useful for your research, please consider citing the follow
 @ARTICLE{9760181,  
 author={Huang, Erqi and Zhang, Maoqi and Ma, Zhan and Chen, Linsen and Zhuang, Yiyu and Cao, Xun},  
 journal={IEEE Journal of Selected Topics in Signal Processing},   
-title={High-fidelity Hyperspectral Snapshot of Physical World: System Architecture, Dataset and Model},   
+title={High-Fidelity Hyperspectral Snapshot of Physical World: System Architecture, Dataset and Model},   
 year={2022},  
-volume={},  
-number={},  
-pages={1-1},  
+volume={16},  
+number={4},  
+pages={608-621},  
 doi={10.1109/JSTSP.2022.3167891}}
 ```
 
 Erqi Huang, Nanjing University, Email: erqihuang@smail.nju.edu.cn
-
